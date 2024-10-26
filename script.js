@@ -154,14 +154,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Hari ini, saya langitkan semua doa terbaik saya untuk kamu.", "Semoga hal-hal yang membuat kamu runtuh turut menjadi alasan kamu untuk tetap tumbuh.", "Semoga dunia senantiasa menjaga kamu dimanapun kamu berada.", "Semoga hari-hari kamu selalu diiringi cinta yang tak pernah ada batasnya." , "Semoga setiap langkahmu dimudahkan hingga tercapai apa yang kamu inginkan."],
+  strings: ["Hôm nay là ngày đặc biệt – ngày mà một thiên thần nhỏ xuất hiện trên thế gian này, để rồi nhiều năm sau, trở thành người khiến trái tim anh lặng thầm rung động và yêu thương không ngừng. Chúc mừng sinh nhật em, tình yêu của anh. Anh mong mỗi sáng mai em thức dậy đều có anh ở bên cạnh, mang đến bình yên, niềm vui và một tình yêu trọn vẹn. Cảm ơn em đã là em – dịu dàng, mạnh mẽ, và tuyệt vời theo cách mà chỉ em mới có. Dù năm tháng có trôi qua thế nào, thì tình cảm anh dành cho em cũng sẽ mãi như hôm nay – thắm thiết, chân thành và nguyên vẹn. Sinh nhật hạnh phúc nhé, người anh yêu hơn cả cuộc đời."],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Dengan ataupun tanpaku, semoga semesta selalu membahagiakan kamu bagimanapun caranya.", " ", "barakallah fi umrik, terima kasih sudah bertahan sampai sejauh ini.", " ", "- Wish all you the best",],
+  strings: ["Chúc mừng sinh nhật người anh yêu nhất trên đời! Cảm ơn em đã đến và làm cuộc sống của anh trở nên ngọt ngào và ý nghĩa hơn bao giờ hết. Mong rằng hôm nay và mãi mãi về sau, em luôn được bao quanh bởi tình yêu, tiếng cười và hạnh phúc — đặc biệt là tình yêu của anh. Yêu em thật nhiều!"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
